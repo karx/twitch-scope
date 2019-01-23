@@ -31,7 +31,7 @@ For
 
 
 ## Stream module
-    We use OBS to stream the telescope feed to Twitch Channel
+We use OBS to stream the telescope feed to Twitch Channel
 
 ## Twitch modules
 * Chat Interaction Module
